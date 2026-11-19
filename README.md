@@ -14,11 +14,17 @@ Using AlphaFold, we will select a structured piece of TCF4 as a starting point f
 
 
 Helix 1: 
+
 Helix 2: 
+
 Helix 3: 
+
 Helix 4: 
+
 Helix 5: 
+
 Helix 6: 
+
 Helix 7: 
 
 ---
