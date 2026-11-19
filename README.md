@@ -42,7 +42,7 @@ Using AlphaFold, we will select a structured piece of TCF4 as a starting point f
 3. Copy your helix to your directory. An example command is:
    ```bash
    mkdir helix1
-   cp extracted_helices/helix_1*pdb helix 1
+   cp extracted_helices/helix_1*pdb helix1
 
 ### Step 2: Prepare Input Files with CHARMM-GUI
 1. Navigate to [CHARMM-GUI](https://www.charmm-gui.org/), register, and log in.
