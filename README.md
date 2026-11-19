@@ -13,7 +13,7 @@ In the absence of an experimentally resolved structure, we can use an AI Protein
 Using AlphaFold, we will select a structured piece of TCF4 as a starting point for our MD simulations.
 
 
-Helix 1: 
+Helix 1: Tanor Andre
 
 Helix 2: 
 
