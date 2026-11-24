@@ -15,7 +15,7 @@ Using AlphaFold, we will select a structured piece of TCF4 as a starting point f
 
 Helix 1: Tanor Andre
 
-Helix 2: 
+Helix 2: Grace Miller
 
 Helix 3: 
 
