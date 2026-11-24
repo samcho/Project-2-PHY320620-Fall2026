@@ -17,7 +17,7 @@ Helix 1: Tanor Andre
 
 Helix 2: Grace Miller
 
-Helix 3: 
+Helix 3: Bohao Wang
 
 Helix 4: 
 
