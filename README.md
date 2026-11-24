@@ -56,8 +56,8 @@ Helix 7: Luna Basnet
 2. Make a directory named "helix[num]" where [num] is replaced with your assigned helix number
 3. Copy your helix to your directory. An example command is:
    ```bash
-   mkdir helix1
-   cp extracted_helices/helix_1*pdb helix1
+   mkdir helix[num]
+   cp extracted_helices/helix_[num]*pdb helix[num]
 
 ### Step 2: Prepare Input Files with CHARMM-GUI
 1. Navigate to [CHARMM-GUI](https://www.charmm-gui.org/), register, and log in.
@@ -81,11 +81,11 @@ Helix 7: Luna Basnet
    scp charmm-gui.tgz username@artemis.deac.wfu.edu:/deac/phy/classes/phy320-fa-2026/[username]
 2. Unpack files and create directories for 3 independent trajectories:
    ```bash
-   ssh -Y username@artemis.deac.wfu.edu
-   cd /deac/phy/classes/phy320-fa-2026/username/Project-2-PHY320620-Fall2026/
-   tar -xvfz charmm-gui.tgz; mv charmm-gui-* 1
-   tar -xvfz charmm-gui.tgz; mv charmm-gui-* 2
-   tar -xvfz charmm-gui.tgz; mv charmm-gui-* 3
+   ssh -Y [username]@artemis.deac.wfu.edu
+   cd /deac/phy/classes/phy320-fa-2026/[username]/Project-2-PHY320620-Fall2026/
+   tar -xvzf charmm-gui.tgz; mv charmm-gui-* 1
+   tar -xvzf charmm-gui.tgz; mv charmm-gui-* 2
+   tar -xvzf charmm-gui.tgz; mv charmm-gui-* 3
 
 ### 4. How to use the SLURM queuing system: Three main commands:
 
